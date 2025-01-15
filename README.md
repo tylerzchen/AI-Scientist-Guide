@@ -253,3 +253,8 @@ in progress!
 ## Contact
 For clarification, complaints, or issues, with this GitHub repository please reach out to tyler.chen.tzc2@yale.edu or jinchen.zhao@yale.edu.
 
+## References
+C. Lu, C. Lu, R. Tjarko, J. Foerster, J. Clune, D. Ha, "The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery." 
+arXiv:2408.06292 (2024)
+S.-Y. Ma, T. Wang, J. Laydevant, L. G. Wright and P. L. McMahon. "Quantum-noise-limited optical neural networks operating at a few quanta per activation." arXiv:2307.15712 (2023)
+
