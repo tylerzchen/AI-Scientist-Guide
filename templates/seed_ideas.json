@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "photon_activation_function",
+        "Title": "Training SPDNN Models with Photon Activation Functions on MNIST Dataset.",
+        "Experiment": "In this experiment, we will compare the performance of SPDNN MLP and SPDNN Convolutional Neural Networks and evaluate them based on training loss, test accuracy, and training time.",
+        "Interestingness": 4,
+        "Feasibility": 10,
+        "Novelty": 3
+    }
+]
